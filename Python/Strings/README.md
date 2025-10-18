@@ -8,6 +8,8 @@ Understand **substrings** and **indexing of strings**.
 ### Problem 1: Longest Sequence of Vowels
 Given a string, find the **maximum length of vowels occurring in sequence** and their **indexes**.
 
+**Note :** Order of vowels doesn't matter
+
 **Example:**
 
 ```
@@ -15,6 +17,12 @@ Input: "madnesaeiokrj"
 Output:
 aeiou
 6,10
+
+Input: "ieoughtiouuae"
+Output:
+iouuae
+_, _ (find your self)
+
 ```
 
 
